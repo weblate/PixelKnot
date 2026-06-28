@@ -1,13 +1,22 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="title_new">Uusi</string>
-  <string name="action_done">Valmis</string>
-  <string name="gallery_info_ok">Selvä</string>
-  <string name="password_skip">Ohita</string>
-  <string name="password_set">Aseta</string>
-  <string name="confirm_passphrase_override_continue">Jatka</string>
-  <string name="outbox_item_deleted_undo">Kumoa</string>
-  <!--Receiver-->
+    <string name="title_new">Uusi</string>
+    <string name="action_done">Valmis</string>
+    <string name="gallery_info_ok">Selvä</string>
+    <string name="password_skip">Ohita</string>
+    <string name="password_set">Aseta</string>
+    <string name="confirm_passphrase_override_continue">Jatka</string>
+    <string name="outbox_item_deleted_undo">Kumoa</string>
+    <!--Receiver-->
   <string name="unlock">Poista lukitus</string>
-  <!--APG related-->
+    <!--APG related-->
+<string name="secret_message_hint">Kirjoita viestisi…</string>
+    <string name="secret_password_hint">Aseta viestin salasana</string>
+    <string name="action_pick_external_album_name">Muu</string>
+    <string name="gallery_info_message">Aloita piilotetun viestin luominen napauttamalla kuvaa</string>
+    <string name="action_albums">Näytä albumit</string>
+    <string name="title_albums">Albumit</string>
+    <string name="app_name">PixelKnot</string>
+    <string name="action_pick_external">Poimi ulkoisesta sovelluksesta</string>
+    <string name="gallery_need_permission">Tarvitsemme lupasi päästäksemme kuviisi. Salli se napauttamalla mitä tahansa.</string>
 </resources>
