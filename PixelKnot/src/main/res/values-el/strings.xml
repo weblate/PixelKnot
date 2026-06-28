@@ -22,8 +22,8 @@
     <string name="confirm_passphrase_override_continue">Συνέχεια</string>
     <string name="message_encrypting_title">Σχεδόν τελειώσατε!</string>
     <string name="message_encrypting">Κρύβουμε το μήνυμά σας αυτή την στιγμή. Θα χρειαστούμε λίγα λεπτά, μα θα σας ειδοποιήσουμε όταν θα είναι έτοιμο για αποστολή.</string>
-    <string name="image_sent_title">Πείτε τους πως Ε-Ε-ΕΡΧΕΤΑΙ!</string>
-    <string name="image_sent">ΠΡΟΣΟΧΗ! Ο παραλήπτης πρέπει να έχει το Pixelknot για να μπορέσει να διαβάσει το μήνυμά σας.</string>
+    <string name="image_sent_title">Πείτε τους ότι έρχεται!</string>
+    <string name="image_sent">Ο παραλήπτης πρέπει να ανοίξει την εικόνα με το Pixelknot για να διαβάσει το μήνυμά σας.</string>
     <string name="tap_to_send">Πιέστε εδώ για αποστολή</string>
     <string name="tap_to_retry">Σφάλμα, πιέστε για επανάληψη</string>
     <string name="sending">Αποστολή σε εξέλιξη…</string>
