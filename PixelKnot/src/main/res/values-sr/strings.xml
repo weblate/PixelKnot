@@ -1,11 +1,57 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="title_new">Нови</string>
-  <string name="action_done">Gotovo</string>
-  <string name="password_skip">Прескочи</string>
-  <string name="confirm_passphrase_override_continue">Dalje</string>
-  <string name="outbox_item_deleted_undo">Ponisti</string>
-  <!--Receiver-->
+    <string name="title_new">Нови</string>
+    <string name="action_done">Gotovo</string>
+    <string name="password_skip">Прескочи</string>
+    <string name="confirm_passphrase_override_continue">Dalje</string>
+    <string name="outbox_item_deleted_undo">Ponisti</string>
+    <!--Receiver-->
   <string name="unlock">Откључај</string>
-  <!--APG related-->
+    <!--APG related-->
+<string name="sending">Слање…</string>
+    <string name="chooser_title_share">Подели са</string>
+    <string name="error_try_again">Покушај поново</string>
+    <string name="notification_message_ready">Порука спремна</string>
+    <string name="notification_messages_ready">%d Поруке спремне</string>
+    <string name="outbox_item_created_days">Креирано пре %1$d дана</string>
+    <string name="outbox_item_created_day">Креирано пре %1$d дан</string>
+    <string name="outbox_item_created_hours">Креирано пре %1$d сати</string>
+    <string name="unsafe_share">Није добро за компримоване слике, итд итд.</string>
+    <string name="dont_show_again">Не приказуј поново.</string>
+    <string name="unsafe_share_title">Небезбедно дељење</string>
+    <string name="tap_to_retry">Грешка, додирни да поновиш</string>
+    <string name="secret_password_hint">Постави лозинку за поруку</string>
+    <string name="action_pick_external">Изабери из спољашње апликације</string>
+    <string name="action_pick_external_album_name">Остало</string>
+    <string name="secret_message_hint">Напиши своју поруку…</string>
+    <string name="secret_password_too_short">Превише кратко</string>
+    <string name="confirm_passphrase_override">Без заштите слике лозинком, твоја тајна порука може бити откривена ако буде пресретнута.</string>
+    <string name="image_sent">Твој прималац мора отворити слику са PixelKnot да би прочитао твоју поруку.</string>
+    <string name="title_albums">Албуми</string>
+    <string name="password_set">Постави</string>
+    <string name="confirm_passphrase_override_back">Врати се назад</string>
+    <string name="app_name">PixelKnot</string>
+    <string name="action_albums">Прикажи албуме</string>
+    <string name="gallery_info_message">Додирни фотографију да покренеш креирање скривене поруке</string>
+    <string name="gallery_info_ok">Разумем</string>
+    <string name="gallery_need_permission">Потребна нам је твоја дозвола за приступ фотографијама. Молимо те да додирнеш било где да би дозволио.</string>
+    <string name="secret_password_minlength_info">Нека буде најмање %d карактера.</string>
+    <string name="confirm_passphrase_override_title">Прескочи лозинку?</string>
+    <string name="message_encrypting_title">Скоро готово!</string>
+    <string name="message_encrypting">Сакривамо твоју поруку. Ово ће нам узети неколико минута. Обавестићемо те када буде спремна за слање.</string>
+    <string name="image_sent_title">Реци им да стиже!</string>
+    <string name="tap_to_send">Додирни да пошаљеш</string>
+    <string name="outbox_item_deleted">Слика обрисана</string>
+    <string name="outbox_item_created_minutes">Креирано пре %1$d минута</string>
+    <string name="outbox_item_created_hour">Креирано пре %1$d сат</string>
+    <string name="enter_message_password">Унеси лозинку за поруку</string>
+    <string name="extracting_message">Преузимање твоје поруке</string>
+    <string name="apg_error_activity_not_found">Није пронађена одговарајућа апликација за ову акцију.</string>
+    <string name="apg_error_apg_version_not_supported">Инсталирана верзија APG није подржана.</string>
+    <string name="unknown_crypto_signature_user_id">&lt;непознато&gt;</string>
+    <string name="insufficient_apg_permissions">Ова апликација нема дозволу за потпуни приступ APG, молимо те да поново инсталираш апликацију да би то поправио.</string>
+    <string name="outbox_item_created_recently">Креирано пре мање од минут</string>
+    <string name="chooser_share_safe">Апликације које ће радити</string>
+    <string name="chooser_share_unsafe">Апликације које могу радити</string>
+    <string name="outbox_item_created_minute">Креирано пре %1$d минут</string>
 </resources>
