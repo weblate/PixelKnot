@@ -12,7 +12,7 @@
     <string name="gallery_need_permission">Necesitamos su permiso para acceder a sus fotos. Toque en cualquier lugar para permitirlo.</string>
     <string name="secret_message_hint">Escriba su mensaje…</string>
     <string name="secret_password_hint">Establecer una contraseña de mensaje</string>
-    <string name="secret_password_minlength_info">Use al menos %d caracteres.</string>
+    <string name="secret_password_minlength_info">Úselo al menos %d caracteres.</string>
     <string name="secret_password_too_short">Demasiado corta</string>
     <string name="password_skip">Omitir</string>
     <string name="password_set">Establecer</string>
