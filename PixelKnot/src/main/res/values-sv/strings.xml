@@ -1,14 +1,19 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="app_name">PixelKnot</string>
-  <string name="title_new">Ny</string>
-  <string name="action_done">Färdig</string>
-  <string name="password_skip">Hoppa över</string>
-  <string name="password_set">Ställ in</string>
-  <string name="confirm_passphrase_override_back">Tillbaka</string>
-  <string name="confirm_passphrase_override_continue">Fortsätt</string>
-  <string name="outbox_item_deleted_undo">Ångra</string>
-  <!--Receiver-->
+    <string name="app_name">PixelKnot</string>
+    <string name="title_new">Ny</string>
+    <string name="action_done">Färdig</string>
+    <string name="password_skip">Hoppa över</string>
+    <string name="password_set">Ställ in</string>
+    <string name="confirm_passphrase_override_back">Tillbaka</string>
+    <string name="confirm_passphrase_override_continue">Fortsätt</string>
+    <string name="outbox_item_deleted_undo">Ångra</string>
+    <!--Receiver-->
   <string name="unlock">Lås upp</string>
-  <!--APG related-->
+    <!--APG related-->
+<string name="unknown_crypto_signature_user_id">&lt;okänd&gt;</string>
+    <string name="sending">Skickar…</string>
+    <string name="action_pick_external_album_name">Andra</string>
+    <string name="title_albums">Album</string>
+    <string name="action_albums">Visa album</string>
 </resources>
