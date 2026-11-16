@@ -2,7 +2,7 @@
 <resources>
     <string name="title_new">Nou</string>
     <string name="action_done">Fet</string>
-    <string name="gallery_info_ok">D\'acord</string>
+    <string name="gallery_info_ok">Entesos</string>
     <string name="password_skip">Omet</string>
     <string name="password_set">Col·locar</string>
     <string name="confirm_passphrase_override_back">Enrere</string>
