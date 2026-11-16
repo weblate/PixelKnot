@@ -1,14 +1,54 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="title_new">새로 만들기</string>
-  <string name="action_done">완료</string>
-  <string name="gallery_info_ok">알겠습니다</string>
-  <string name="password_skip">무시</string>
-  <string name="password_set">셋</string>
-  <string name="confirm_passphrase_override_continue">Continue</string>
-  <string name="outbox_item_deleted_undo">실행 취소</string>
-  <!--Receiver-->
+    <string name="title_new">새로 만들기</string>
+    <string name="action_done">완료</string>
+    <string name="gallery_info_ok">알겠습니다</string>
+    <string name="password_skip">무시</string>
+    <string name="password_set">셋</string>
+    <string name="confirm_passphrase_override_continue">계속</string>
+    <string name="outbox_item_deleted_undo">실행 취소</string>
+    <!--Receiver-->
   <string name="unlock">잠금 해제</string>
-  <!--APG related-->
+    <!--APG related-->
   <string name="apg_error_activity_not_found">이 작업에 적합한 응용 프로그램이 없습니다.</string>
+    <string name="app_name">PixelKnot</string>
+    <string name="title_albums">앨범</string>
+    <string name="action_albums">앨범 표시</string>
+    <string name="action_pick_external">외부 앱에서 선택</string>
+    <string name="action_pick_external_album_name">기타</string>
+    <string name="gallery_info_message">사진을 탭하여 숨겨진 메시지 생성 시작</string>
+    <string name="gallery_need_permission">사진에 액세스하려면 권한이 필요합니다. 허용하려면 아무 곳이나 탭하여 주십시오.</string>
+    <string name="secret_message_hint">메시지를 작성하세요…</string>
+    <string name="secret_password_hint">메시지 패스워드 설정</string>
+    <string name="secret_password_minlength_info">최소 %d자 이상으로 설정하십시오.</string>
+    <string name="secret_password_too_short">너무 짧음</string>
+    <string name="confirm_passphrase_override_title">패스워드를 건너뛰겠습니까?</string>
+    <string name="confirm_passphrase_override">패스워드로 이미지를 보호하지 않으면 탈취될 경우 비밀 메시지가 발견될 수 있습니다.</string>
+    <string name="confirm_passphrase_override_back">돌아가기</string>
+    <string name="message_encrypting_title">거의 끝났습니다!</string>
+    <string name="message_encrypting">메시지를 숨기고 있습니다. 이 과정은 몇 분 정도 걸립니다. 전송 준비가 끝나면 알려드리겠습니다.</string>
+    <string name="image_sent">수신자가 메시지를 읽으려면 Pixelknot로 이미지를 열어야 합니다.</string>
+    <string name="tap_to_send">탭하여 전송</string>
+    <string name="tap_to_retry">오류 발생, 탭하여 재시도</string>
+    <string name="sending">전송중…</string>
+    <string name="dont_show_again">다시 보지 않음.</string>
+    <string name="unsafe_share_title">안전하지 않은 공유</string>
+    <string name="outbox_item_deleted">이미지 삭제됨</string>
+    <string name="outbox_item_created_recently">1분 이내에 생성됨</string>
+    <string name="outbox_item_created_minutes">%1$d분 전에 생성됨</string>
+    <string name="outbox_item_created_minute">%1$d분 전에 생성됨</string>
+    <string name="outbox_item_created_hours">%1$d시간 전에 생성됨</string>
+    <string name="outbox_item_created_hour">%1$d시간 전에 생성됨</string>
+    <string name="outbox_item_created_days">%1$d일 전에 생성됨</string>
+    <string name="outbox_item_created_day">%1$d일 전에 생성됨</string>
+    <string name="notification_message_ready">메시지 준비됨</string>
+    <string name="notification_messages_ready">%d 메시지 준비됨</string>
+    <string name="enter_message_password">메시지 패스워드 입력</string>
+    <string name="extracting_message">메시지 불러오는 중</string>
+    <string name="error_try_again">재시도</string>
+    <string name="chooser_share_safe">작동하는 앱</string>
+    <string name="chooser_share_unsafe">작동할 수도 있는 앱</string>
+    <string name="apg_error_apg_version_not_supported">설치된 APG 버전은 지원하지 않습니다.</string>
+    <string name="unknown_crypto_signature_user_id">&lt;알 수 없음&gt;</string>
+    <string name="insufficient_apg_permissions">이 앱은 APG에 완전히 접근할 수 있는 권한이 없습니다. 이 문제를 해결하려면 앱을 재설치해 주십시오.</string>
 </resources>
