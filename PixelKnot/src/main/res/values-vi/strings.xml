@@ -1,16 +1,57 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="app_name">PixelKnot</string>
-  <string name="title_new">Mới</string>
-  <string name="action_done">Xong</string>
-  <string name="password_skip">Bỏ qua</string>
-  <string name="password_set">Chọn</string>
-  <string name="confirm_passphrase_override_continue">Tiếp tục</string>
-  <!--Receiver-->
+    <string name="app_name">PixelKnot</string>
+    <string name="title_new">Mới</string>
+    <string name="action_done">Xong</string>
+    <string name="password_skip">Bỏ qua</string>
+    <string name="password_set">Chọn</string>
+    <string name="confirm_passphrase_override_continue">Tiếp tục</string>
+    <!--Receiver-->
   <string name="unlock">Mở khóa</string>
-  <!--APG related-->
+    <!--APG related-->
   <string name="apg_error_activity_not_found">Không tìm thấy ứng dụng thích hợp cho thao tác này</string>
-  <string name="apg_error_apg_version_not_supported">Phiên bản APG đã cài đặt không được hỗ trợ.</string>
-  <string name="unknown_crypto_signature_user_id">&lt;chưa rõ&gt;</string>
-  <string name="insufficient_apg_permissions">Ứng dụng này không có quyền truy cập đầy đủ với dịch vụ APG, vui lòng cài lại ứng dụng này để sửa lỗi này.</string>
+    <string name="apg_error_apg_version_not_supported">Phiên bản APG đã cài đặt không được hỗ trợ.</string>
+    <string name="unknown_crypto_signature_user_id">&lt;chưa rõ&gt;</string>
+    <string name="insufficient_apg_permissions">Ứng dụng này không có quyền truy cập đầy đủ với dịch vụ APG, vui lòng cài lại ứng dụng này để sửa lỗi này.</string>
+    <string name="title_albums">Albums</string>
+    <string name="action_albums">Hiện albums</string>
+    <string name="gallery_info_ok">Đã hiểu</string>
+    <string name="gallery_need_permission">Chúng tôi cần quyền truy cập hình ảnh. Vui lòng nhấn vào bất cứ đâu để cho phép.</string>
+    <string name="secret_message_hint">Viết tin nhắn của bạn…</string>
+    <string name="secret_password_hint">Đặt mật khẩu tin nhắn</string>
+    <string name="action_pick_external">Chọn ứng dụng ngoài</string>
+    <string name="confirm_passphrase_override">Nếu không bảo vệ danh tính của bạn bằng mật khẩu, tin nhắn bí mật của bạn có thể bị phát hiện khi bị chặn thu.</string>
+    <string name="confirm_passphrase_override_back">Quay lại</string>
+    <string name="message_encrypting_title">Sắp xong rồi!</string>
+    <string name="message_encrypting">Chúng tôi đang ẩn tin nhắn của bạn. Có thể mất vài phút. Chúng tôi sẽ thông báo khi nào nó sẵn sàng để gửi.</string>
+    <string name="image_sent_title">Nói với họ nó sắp tới rồi!</string>
+    <string name="image_sent">Người nhận của bạn phải mở ảnh bằng Pixelknot để đọc tin nhắn.</string>
+    <string name="tap_to_send">Nhấn để gửi</string>
+    <string name="tap_to_retry">Lỗi, nhấn để thử lại</string>
+    <string name="sending">Đang gửi…</string>
+    <string name="dont_show_again">Không hiện lại.</string>
+    <string name="unsafe_share_title">Chia sẻ không an toàn</string>
+    <string name="unsafe_share">Không tốt cho ảnh nén, vân vân.</string>
+    <string name="outbox_item_deleted">Ảnh đã bị xóa</string>
+    <string name="outbox_item_deleted_undo">Hoàn tác</string>
+    <string name="outbox_item_created_recently">Được tạo ra dưới một phút trước</string>
+    <string name="outbox_item_created_minutes">Được tạo ra %1$d phút trước</string>
+    <string name="outbox_item_created_minute">Được tạo ra %1$d phút trước</string>
+    <string name="outbox_item_created_hours">Được tạo ra %1$d giờ trước</string>
+    <string name="outbox_item_created_hour">Được tạo ra %1$d giờ trước</string>
+    <string name="outbox_item_created_days">Được tạo ra %1$d ngày trước</string>
+    <string name="outbox_item_created_day">Được tạo ra %1$d ngày trước</string>
+    <string name="notification_message_ready">Tin nhắn đã sẵn sàng</string>
+    <string name="notification_messages_ready">%d Tin nhắn đã sẵn sàng</string>
+    <string name="enter_message_password">Nhập mật khẩu tin nhắn</string>
+    <string name="extracting_message">Đang tìm tin nhắn của bạn</string>
+    <string name="error_try_again">Thử lại</string>
+    <string name="chooser_title_share">Chia sẻ với</string>
+    <string name="chooser_share_safe">Các ứng dụng sẽ hoạt động</string>
+    <string name="chooser_share_unsafe">Các ứng dụng có thể sẽ hoạt động</string>
+    <string name="action_pick_external_album_name">Khác</string>
+    <string name="gallery_info_message">Nhấn vào ảnh để bắt đầu tạo tin nhắn ẩn</string>
+    <string name="secret_password_minlength_info">Tạo ít nhất %d ký tự.</string>
+    <string name="secret_password_too_short">Quá ngắn</string>
+    <string name="confirm_passphrase_override_title">Bỏ qua mật khẩu?</string>
 </resources>
